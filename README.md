@@ -1,9 +1,5 @@
 Gringotts
 =========
-Continued development of the Gringotts plugin as seen on BukkitDev, now supporting 1.7.10 clients. Most errors/crashes have been fixed, and I can guarantee the current build is now stable. I've tested this with Craftbukkit, and Spigot, and it seems to be running fine without any issues.
+This plugin was intially updated as per someone wanting a working version to support 1.7.10+ minecraft servers. This includes such updates, and as well as several bug fixes. I take no authority to claim this plugin as one of my own.
 
-*This is not my plugin, I do not claim my self to own the code, other than my own code. All credit goes respectively to the original authors :).
-
-Updates/News
-------------
-As of right now, 1/24/15, I'll begin updating this resource to 1.8, compiled builds will be availible either here (target > choose build), or on the Spigot resources section. For now, I will not add new features, since my priority is to have a playable build before adding a few twists to it.
+This plugin is now maintained for my own benefit.
